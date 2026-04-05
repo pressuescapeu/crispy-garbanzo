@@ -1,0 +1,7 @@
+boto3
+fastapi
+pydantic
+websockets
+pytest
+pytest-asyncio
+pytest-mock
